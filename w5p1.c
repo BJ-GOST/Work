@@ -25,7 +25,7 @@ int main(){
     const int DEC = 12;
     int month;
     int year;
-    int first_day = 1;
+   
 
 
     printf("General Well-being Log\n");
